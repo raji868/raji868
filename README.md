@@ -7,7 +7,15 @@ Pre-final year ECE Student at Mepco Schlenk Engineering College
 
 <img src="https://www.careervira.com/_next/image?url=https%3A%2F%2Fd2lk14jtvqry1q.cloudfront.net%2Fmedia%2Flarge_130_112b59969d_205677345f.png&w=1080&q=75" width="70" align="centre" style="margin-right:30px;" />
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rajapriya-r-aa9724336/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/raji_.088/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajapriya-r-aa9724336/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/raji_.088/">
+    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 
 ### I code in
