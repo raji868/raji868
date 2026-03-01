@@ -27,7 +27,7 @@ Pre-final year Student
 
 ## 🧠 Problem Solving 
 
-[<img src="C:\Users\rajap\OneDrive\Pictures\Screenshots\Neopat.png" width="500" />](https://msec569.examly.io/dashboard)
+-Neopat [<img src="https://media.licdn.com/dms/image/v2/C4E0BAQFoBcUhMETSGg/company-logo_200_200/company-logo_200_200/0/1630617368720/neo_pat_logo?e=1773878400&v=beta&t=sWSb6rWCcyR1OKJrx30NWXsE4RNqTRWhrey9A048Ako.png" width="500" />](https://msec569.examly.io/dashboard)
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rajapriya_R?theme=light&font=Noto%20Sans%20Old%20Turkic)
