@@ -4,7 +4,7 @@ Pre-final year Student
                                                 
 - 🌱 I’m currently learning mern stack
 
-- Bachelor of Electronic and Communication at   <img src="https://www.careervira.com/_next/image?url=https%3A%2F%2Fd2lk14jtvqry1q.cloudfront.net%2Fmedia%2Flarge_130_112b59969d_205677345f.png&w=1080&q=75" width="70" align="centre" style="margin-right:30px;" />
+- Bachelor of Electronic and Communication at   [<img src="https://www.careervira.com/_next/image?url=https%3A%2F%2Fd2lk14jtvqry1q.cloudfront.net%2Fmedia%2Flarge_130_112b59969d_205677345f.png&w=1080&q=75" width="70" align="centre" style="margin-right:30px;" />](https://www.mepcoeng.ac.in/)
 - Social Presence
 <p align="left">
   <a href="https://www.linkedin.com/in/rajapriya-r-aa9724336/">
