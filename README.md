@@ -25,7 +25,9 @@ Pre-final year Student
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 
 
+## 🧠 Problem Solving 
 
+[<img src="IMAGE_URL" width="500" />](https://msec569.examly.io/dashboard)
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rajapriya_R?theme=light&font=Noto%20Sans%20Old%20Turkic)
