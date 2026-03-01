@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Rajapriya
 
-Pre-final year Student 
+Pre-final year Engineering Student 
                                                 
 - 🌱 I’m currently learning mern stack
 
