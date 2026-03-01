@@ -3,9 +3,9 @@
 Pre-final year ECE Student at Mepco Schlenk Engineering College
                                                 
 - 🌱 I’m currently learning mern stack
-### 🎓 Education
 
-<img src="https://www.careervira.com/_next/image?url=https%3A%2F%2Fd2lk14jtvqry1q.cloudfront.net%2Fmedia%2Flarge_130_112b59969d_205677345f.png&w=1080&q=75" width="35" align="left" style="margin-right:8px;" />
+
+<img src="https://www.careervira.com/_next/image?url=https%3A%2F%2Fd2lk14jtvqry1q.cloudfront.net%2Fmedia%2Flarge_130_112b59969d_205677345f.png&w=1080&q=75" width="60" align="left" style="margin-right:8px;" />
 
 **Mepco Schlenk Engineering College**  
 Bachelor of Engineering
