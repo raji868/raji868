@@ -3,7 +3,13 @@
 Pre-final year ECE Student at Mepco Schlenk Engineering College
                                                 
 - 🌱 I’m currently learning mern stack
-- ![Project Logo](images/large_130_112b59969d_205677345f.png)
+### 🎓 Education
+
+<img src="https://www.careervira.com/_next/image?url=https%3A%2F%2Fd2lk14jtvqry1q.cloudfront.net%2Fmedia%2Flarge_130_112b59969d_205677345f.png&w=1080&q=75" width="35" align="left" style="margin-right:8px;" />
+
+**Mepco Schlenk Engineering College**  
+Bachelor of Engineering
+
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
 - Previously worked with [<img src="https://www.google.com/imgres?q=mepco&imgurl=https%3A%2F%2Fd2lk14jtvqry1q.cloudfront.net%2Fmedia%2Flarge_130_112b59969d_205677345f.png&imgrefurl=https%3A%2F%2Fwww.careervira.com%2Fen-IN%2Finstitute%2Fmepco-schlenk-engineering-college-sivakasi&docid=5PQHnsKJcutSCM&tbnid=Z4CahEGaFVSoyM&vet=12ahUKEwiM5JXbzf6SAxVEzjgGHQrNAPsQnPAOegQIGxAB..i&w=1000&h=389&hcb=2&ved=2ahUKEwiM5JXbzf6SAxVEzjgGHQrNAPsQnPAOegQIGxAB" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - ⚡ Fun fact: I know Japanese.
