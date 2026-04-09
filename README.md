@@ -25,7 +25,3 @@ Pre-final year Engineering Student
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 
 
-## 🧠 Problem Solving 
-
--Neopat [<img src="https://media.licdn.com/dms/image/v2/C4E0BAQFoBcUhMETSGg/company-logo_200_200/company-logo_200_200/0/1630617368720/neo_pat_logo?e=1773878400&v=beta&t=sWSb6rWCcyR1OKJrx30NWXsE4RNqTRWhrey9A048Ako.png" width="500" />](https://msec569.examly.io/dashboard)
-
