@@ -29,7 +29,3 @@ Pre-final year Engineering Student
 
 -Neopat [<img src="https://media.licdn.com/dms/image/v2/C4E0BAQFoBcUhMETSGg/company-logo_200_200/company-logo_200_200/0/1630617368720/neo_pat_logo?e=1773878400&v=beta&t=sWSb6rWCcyR1OKJrx30NWXsE4RNqTRWhrey9A048Ako.png" width="500" />](https://msec569.examly.io/dashboard)
 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rajapriya_R?theme=light&font=Noto%20Sans%20Old%20Turkic)
-
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raji868&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
